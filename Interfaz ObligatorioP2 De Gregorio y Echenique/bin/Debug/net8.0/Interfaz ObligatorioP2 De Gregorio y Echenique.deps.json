@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interfaz ObligatorioP2 De Gregorio y Echenique/1.0.0": {
+        "dependencies": {
+          "LogicaObligatorioP2": "1.0.0"
+        },
+        "runtime": {
+          "Interfaz ObligatorioP2 De Gregorio y Echenique.dll": {}
+        }
+      },
+      "LogicaObligatorioP2/1.0.0": {
+        "runtime": {
+          "LogicaObligatorioP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interfaz ObligatorioP2 De Gregorio y Echenique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaObligatorioP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
