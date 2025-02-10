@@ -1,0 +1,48 @@
+﻿@model List<ObligatorioP2_De_Gregorio_y_Echenique.Empleado>
+
+
+@{
+    ViewData["Title"] = "ObtenerPeones";
+}
+
+
+<h1>ObtenerPeones</h1>
+@TempData["Mensaje"]
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+        <th>Email</th>
+        <th>Contraseña</th>
+        <th>Nombre</th>
+        <th>Fecha ingreso</th>
+        <th>Reside en estancia</th>
+        <th>Detalle tareas</th>
+        </thead>
+        <tbody>
+            @foreach (ObligatorioP2_De_Gregorio_y_Echenique.Empleado empleado in Model)
+                if (empleado is ObligatorioP2_De_Gregorio_y_Echenique.Peon peon)
+            {
+                <tr>
+                    <td>@empleado.Nombre</td>
+                    <td>@empleado.Contrasenia</td>
+                    <td>@empleado.Email</td>
+                    <td>@empleado.Fecha.ToString("dd/MM/yyyy")</td>
+                        @if (@peon.ResideEnEstancia)
+                        {
+                            <td>Sí</td>
+                        }
+                        else
+                        {
+                            <td>No</td>
+                        }                        
+                    <td><a href="~/Capataz/ObtenerTareas?Email=@empleado.Email">Ver detalle</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <span>No existen peones a cargo</span>
+}

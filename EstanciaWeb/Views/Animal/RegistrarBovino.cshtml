@@ -1,0 +1,46 @@
+﻿@model ObligatorioP2_De_Gregorio_y_Echenique.Bovino
+@using ObligatorioP2_De_Gregorio_y_Echenique
+@{
+    ViewData["Title"] = "RegistrarBovino";
+}
+
+<h1>RegistrarBovino</h1>
+
+<form method="post">
+    <label>Caravana</label>
+    <input type="text" name="Caravana" />
+    <br />
+    <label>Sexo</label>
+    <select name="sexo">
+        <option value="Macho">Macho</option>
+        <option value="Hembra">Hembra</option>
+    </select>
+    <br />
+    <label>Raza</label>
+    <input type="text" name="Raza" />
+    <br />
+    <label>Fecha de nacimiento</label>
+    <input type="date" name="FechaNac" />
+    <br />
+    <label>Costo adquisición</label>
+    <input type="number" name="CostoAdquisicion" />
+    <br /><label>Costo alimentación</label>
+    <input type="number" name="CostoAlimentacion" />
+    <br />
+    <label>Peso actual</label>
+    <input type="number" name="PesoActual" />
+    <br />
+    <label>Es híbrido?</label>
+    <input type="checkbox" name="Hibrido"/>
+    <br />
+    <label>Tipo de alimentación</label>
+    <select name="TipoAlimentacion">
+        <option value="Grano">Grano</option>
+        <option value="Pastura">Pastura</option>
+    </select>
+    <br />
+    <input type="submit" value="Guardar" />
+    <br />
+
+</form>
+@ViewBag.Mensaje

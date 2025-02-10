@@ -1,0 +1,34 @@
+﻿@model ObligatorioP2_De_Gregorio_y_Echenique.RegistroVacunacion
+@using ObligatorioP2_De_Gregorio_y_Echenique
+@{
+    ViewData["Title"] = "RegistrarVacunacion";
+}
+
+<h1>RegistrarVacunacion</h1>
+
+<form method="post" action="~/RegistroVacunacion/RegistrarVacunacion">
+    <label>Caravana del animal</label>
+    <input type="text" name="Animal" />
+    <br />
+    <label>Vacuna</label>
+    <select name="nombre">
+        @if (ViewBag.Vacunas != null && ViewBag.Vacunas.Count > 0)
+        {
+            <option value="-1">Seleccione una vacuna</option>
+            @foreach (Vacuna vac in ViewBag.Vacunas)
+            {
+                <option value="@vac.Nombre">@vac.Nombre</option>
+            }
+
+            }
+        }
+    </select>
+    <br />
+    <label>Fecha</label>
+    <input type="date" name="Fecha"/>
+    <br />
+    <input type="submit" value="Guardar" />
+</form>
+
+
+@ViewBag.Mensaje

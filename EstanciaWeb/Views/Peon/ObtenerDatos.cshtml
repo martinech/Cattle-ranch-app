@@ -1,0 +1,43 @@
+﻿@model List<ObligatorioP2_De_Gregorio_y_Echenique.Empleado>
+@using ObligatorioP2_De_Gregorio_y_Echenique
+
+@{
+    ViewData["Title"] = "ObtenerDatos";
+}
+
+<h1>ObtenerDatos</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+        <th>Nombre</th>
+        <th>Email</th>
+        <th>Contraseña</th>
+        <th>Fecha ingreso</th>
+        <th>Reside en estancia</th>
+        </thead>
+        <tbody>
+            @foreach (ObligatorioP2_De_Gregorio_y_Echenique.Empleado empleado in Model)
+                if (empleado is ObligatorioP2_De_Gregorio_y_Echenique.Peon peon)
+            {
+                <tr>
+
+                    <td>@empleado.Nombre</td>
+                    <td>@empleado.Email</td>
+                    <td>@empleado.Contrasenia</td>
+                    <td>@empleado.Fecha.ToString("dd/MM/yyyy")</td>
+                        @if (@peon.ResideEnEstancia)
+                        {
+                            <td>Sí</td>
+                        }
+                        else
+                        {
+                            <td>No</td>
+                        }
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+}

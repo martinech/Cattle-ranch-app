@@ -1,0 +1,41 @@
+﻿@model List<ObligatorioP2_De_Gregorio_y_Echenique.Potrero>
+
+@{
+    ViewData["Title"] = "ObtenerPotreros";
+}
+
+<h1>ObtenerPotreros</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+        <th>Id</th>
+        <th>Descripción</th>
+        <th>Cantidad de animales</th>
+        <th>Precio de venta potencial</th>
+        </thead>
+        <tbody>
+            @foreach (ObligatorioP2_De_Gregorio_y_Echenique.Potrero potrero in Model)
+            {
+                <tr>
+                    <td>@potrero.Id</td>
+                    <td>@potrero.Descripcion</td>
+                    @if(potrero.CantidadAnimales == 0)
+                    {
+                        <td>El potrero no tiene animales</td>
+                    }
+                    else
+                    {
+                        <td>@potrero.CantidadAnimales</td>
+                    }
+                    <td>@potrero.PrecioVenta</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <span>No existen peones a cargo</span>
+}

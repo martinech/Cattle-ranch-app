@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "AsignarAnimalPotrero";
+}
+
+<h1>AsignarAnimalPotrero</h1>
+
+<form method="post">
+    <label>Caravana del animal</label>
+    <input type="text" name="caravana" />
+    <br />
+    <label>Id del potrero</label>
+    <input type="number" name="Id" required/>
+    <br />
+    <input type="submit" name="Asignar" />
+</form>
+
+@ViewBag.Mensaje

@@ -1,0 +1,38 @@
+﻿@using ObligatorioP2_De_Gregorio_y_Echenique
+@model ObligatorioP2_De_Gregorio_y_Echenique.Tarea
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+@if (Model != null)
+{
+<form method="post">
+    <table>
+        <thead>
+            <th>Id</th>
+            <th>Descripción</th>
+            <th>Fecha pactada</th>
+            <th>Comentario</th>
+        </thead>
+        <tbody>
+            <td>@Model.Id</td>
+            <td>@Model.Descripcion</td>
+            <td>@Model.FechaPactada.ToShortDateString()</td>
+            <td>@Model.Comentario</td>
+            <label>Agregar comentario final:</label>
+            <input type="text" name="Comentario" />
+        </tbody>
+
+    </table>
+
+    <td><input type="submit" value="Completar tarea" /></td>
+    
+</form>
+}
+
+
+@ViewBag.Mensaje
+
