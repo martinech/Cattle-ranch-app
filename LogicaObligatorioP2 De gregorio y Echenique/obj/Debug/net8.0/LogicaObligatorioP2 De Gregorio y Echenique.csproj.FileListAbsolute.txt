@@ -1,0 +1,19 @@
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio\Obligatorio\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.csproj.AssemblyReference.cache
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.AssemblyInfo.cs
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\Interfaz ObligatorioP2 De Gregorio y Echenique.deps.json
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\Interfaz ObligatorioP2 De Gregorio y Echenique.runtimeconfig.json
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\Interfaz ObligatorioP2 De Gregorio y Echenique.exe
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.deps.json
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\Interfaz ObligatorioP2 De Gregorio y Echenique.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\Interfaz ObligatorioP2 De Gregorio y Echenique.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaOb.29628485.Up2Date
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2 De Gregorio y Echenique.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2 De Gregorio y Echenique.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2 De Gregorio y Echenique.dll

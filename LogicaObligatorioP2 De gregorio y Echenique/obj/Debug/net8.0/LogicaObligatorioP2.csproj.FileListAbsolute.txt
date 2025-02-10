@@ -1,0 +1,132 @@
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Junior\Desktop\Obligatorio P2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\ESTUDIO\Programación\ORT\2do semestre\Programación 2\Obligatorio2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\Obligatorio P2\ObligatorioP2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Junior\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio logins\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\alumnoFI\Desktop\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio 12 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio 14 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\obligatorio 15 junio\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.deps.json
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\bin\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.AssemblyInfo.cs
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\refint\LogicaObligatorioP2.dll
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\LogicaObligatorioP2.pdb
+C:\Users\Martín\Desktop\Obligatorio 2\LogicaObligatorioP2 De gregorio y Echenique\obj\Debug\net8.0\ref\LogicaObligatorioP2.dll
