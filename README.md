@@ -21,13 +21,12 @@ This project was developed as an assignment for **Programación 2** at **ORT Uni
 ## 📂 Project Structure
 ```
 Cattle-ranch-app/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── utils/
-├── public/
-├── package.json
+├── EstanciaWeb/
+├── Interfaz ObligatorioP2 DeGregorio y Echenique/
+├── LogicaObligatorioP2 De gregorio y Echenique
+├── .gitattributes
+├── LICENSE
+├── ObligatorioP2 Echenique.sln
 ├── README.md
 └── .gitignore
 ```
