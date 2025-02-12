@@ -3,7 +3,7 @@
 ## 📌 Overview
 The **Cattle Ranch App** is a management system designed to streamline operations in a cattle ranch business. This application allows different types of users to access and manage essential data efficiently.
 
-This project was developed as an assignment for **[Course Name]** at **[University Name]**.
+This project was developed as an assignment for **Programación 2** at **ORT University**.
 
 ## 🚀 Features
 - **Anonymous User Login** – Limited access to general information.
@@ -14,10 +14,9 @@ This project was developed as an assignment for **[Course Name]** at **[Universi
 - **Task Assignment & Completion** – Assign daily tasks to workers and track their completion.
 
 ## 🛠️ Technologies Used
-- **Frontend:** [e.g., React, HTML, CSS, JavaScript]
-- **Backend:** [e.g., Node.js, Express, Django]
-- **Database:** [e.g., MongoDB, PostgreSQL, Firebase]
-- **Other Tools:** [e.g., Git, Docker, GraphQL]
+- **Frontend:** HTML, CSS.
+- **Backend:** C#.
+- **Other Tools:** Git.
 
 ## 📂 Project Structure
 ```
