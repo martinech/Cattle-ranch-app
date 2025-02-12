@@ -35,27 +35,19 @@ Cattle-ranch-app/
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Cattle-ranch-app.git
-   cd Cattle-ranch-app
+   git clone https://github.com/yourusername/Cattle-ranch-app
    ```
-2. Install dependencies:
+2. Open in VS Code:
    ```sh
-   npm install
+   Debug and run
    ```
-3. Start the application:
-   ```sh
-   npm start
-   ```
-
-## 👨‍💻 Contributor
-This project was developed in collaboration with **[Contributor's Name]** as part of the **[Course Name]** at **[University Name]**.
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 For questions or feedback, feel free to reach out:
-- **Email:** [your-email@example.com]
+- **Email:** martin.echenique@hotmail.com
 - **GitHub Issues:** Open an issue on the repository
 
 ---
