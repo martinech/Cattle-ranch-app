@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Interfaz_ObligatorioP2_De_Gregorio_y_Echenique</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LogicaObligatorioP2 De gregorio y Echenique\LogicaObligatorioP2.csproj" />
+  </ItemGroup>
+
+
+</Project>

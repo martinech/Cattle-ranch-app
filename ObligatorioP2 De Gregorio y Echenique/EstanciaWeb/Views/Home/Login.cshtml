@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+<form method="post" action="~/Home/IniciarSesion">
+    <label>Email</label>
+    <input type="email" name="email" />
+    <br />
+    <label>Contraseña</label>
+    <input type="password" name="contrasenia" />
+    <br />
+    <input type="submit" value="Iniciar sesión" />
+</form>
+
+
+@TempData["Mensaje"]

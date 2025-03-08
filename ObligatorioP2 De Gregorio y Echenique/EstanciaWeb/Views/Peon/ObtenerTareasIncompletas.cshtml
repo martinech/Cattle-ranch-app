@@ -1,0 +1,39 @@
+﻿@model List<ObligatorioP2_De_Gregorio_y_Echenique.Tarea>
+
+@{
+    ViewData["Title"] = "ObtenerTareasIncompletas";
+}
+
+
+<h1>ObtenerTareasIncompletas</h1>
+@TempData["Mensaje"]
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+        <th>Id</th>
+        <th>Descripción</th>
+        <th>Fecha pactada</th>
+        <th>Comentario</th>
+        <th>Estado</th>
+        <th></th>
+        </thead>
+        <tbody>
+            @foreach (ObligatorioP2_De_Gregorio_y_Echenique.Tarea tarea in Model)
+            {
+                <tr>
+                    <td>@tarea.Id</td>
+                    <td>@tarea.Descripcion</td>
+                    <td>@tarea.FechaPactada.ToString("dd/MM/yyyy")</td>
+                    <td>@tarea.Comentario</td>
+                    <td><a href="~/Tarea/Edit/@tarea.Id">Completar tarea</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@if (Model == null || Model.Count == 0)
+{
+    <p>No hay tareas pendientes</p>
+}

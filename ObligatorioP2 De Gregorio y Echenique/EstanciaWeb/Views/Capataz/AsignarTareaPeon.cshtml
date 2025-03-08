@@ -1,0 +1,35 @@
+﻿@model ObligatorioP2_De_Gregorio_y_Echenique.Tarea
+@using ObligatorioP2_De_Gregorio_y_Echenique
+@{
+    ViewData["Title"] = "AsignarTareaPeon";
+}
+
+<h1>AsignarTareaPeon</h1>
+
+<form method="post">
+    <label>Email del peón</label>
+    <select name="email">
+        @if(ViewBag.Empleados !=null && ViewBag.Empleados.Count >0){
+        @foreach (Empleado empleado in ViewBag.Empleados)
+        {
+            if (empleado is Peon)
+            {
+                <option value="@empleado.Email" selected>@empleado.Email</option>
+            }
+        }
+        }
+    </select>
+    <br />
+    <label>Descripcion</label>
+    <input type="text" name="Descripcion" />
+    <br />
+    <label>Fecha pactada</label>
+    <input type="date" name="FechaPactada" />
+    <br />
+    <label>Comentario</label>
+    <input type="text" name="Comentario"/>
+    <br />
+    <input type="submit" value="Asignar tarea" />
+</form>
+
+@ViewBag.Mensaje

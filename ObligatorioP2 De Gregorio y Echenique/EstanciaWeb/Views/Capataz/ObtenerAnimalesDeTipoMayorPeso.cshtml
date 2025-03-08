@@ -1,0 +1,60 @@
+﻿@model List<ObligatorioP2_De_Gregorio_y_Echenique.Animal>
+@using ObligatorioP2_De_Gregorio_y_Echenique
+@{
+    ViewData["Title"] = "ObtenerAnimalesDeTipoMayorPeso";
+}
+
+<h1>Seleccione un tipo de animal y un peso</h1>
+
+<form method="post" action="~/Capataz/ObtenerAnimalesDeTipoMayorPeso">
+    <label>Tipo</label>
+    <select name="tipo">
+        <option value="Bovino" name="Bovino">Bovino</option>
+        <option value="Ovino" name="Ovino">Ovino</option>
+    </select>
+    <br />
+    <label>Peso</label>
+    <input type="number" name="peso" />
+    <br />
+    <input type="submit" value="Mostrar animales" />
+</form>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+        <th>Caravana</th>
+        <th>Tipo de animal</th>
+        <th>Peso</th>
+        <th>Sexo</th>
+        <th>Potencial ganancia</th>
+        </thead>
+        <tbody>
+            @foreach (ObligatorioP2_De_Gregorio_y_Echenique.Animal animal in Model)
+            {
+                <tr>
+
+                    <td>@animal.Caravana</td>
+                    @if (animal is Ovino)
+                    {
+                        <td>Ovino</td>
+                    }
+                    else
+                    {
+                        <td>Bovino</td>
+                    }
+                    <td>@animal.PesoActual</td>
+                    <td>@animal.Sexo</td>
+                    <td>@animal.CalcularPrecioVenta()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@if (Model != null && Model.Count == 0)
+{
+    <p>No se encontraron animales con las características especificadas.</p>
+}
+
+@ViewBag.Mensaje

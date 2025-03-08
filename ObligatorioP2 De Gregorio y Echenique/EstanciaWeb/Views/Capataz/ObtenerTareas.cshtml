@@ -1,0 +1,54 @@
+﻿@model List<ObligatorioP2_De_Gregorio_y_Echenique.Tarea>
+
+@{
+    ViewData["Title"] = "ObtenerTareas";
+}
+
+<h1>ObtenerTareas</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+        <th>Id</th>
+        <th>Descripción</th>
+        <th>Fecha pactada</th>
+        <th>Fecha de cierre</th>
+        <th>Comentario</th>
+        <th>Estado</th>
+        <th></th>
+        </thead>
+        <tbody>
+            @foreach (ObligatorioP2_De_Gregorio_y_Echenique.Tarea tarea in Model)
+            {
+                <tr>
+                        <td>@tarea.Id</td>
+                        <td>@tarea.Descripcion</td>
+                        <td>@tarea.FechaPactada.ToShortDateString()</td>
+                    @if (@tarea.FueCompletada)
+                    {
+                        <td>@tarea.FechaCierre.ToString("dd/MM/yyyy")</td>
+                    }
+                    else
+                    {
+                        <td>-</td>
+                    }
+                    <td>@tarea.Comentario</td>
+                    @if (tarea.FueCompletada)
+                    {
+                        <td>Completada</td>
+                    }
+                    else
+                    {
+                        <td>No completada</td>
+                    }
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <span>No existen tareas</span>
+}
